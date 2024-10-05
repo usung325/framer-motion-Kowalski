@@ -1,0 +1,14 @@
+.cardPrev {
+    /* transform: rotate(-20deg); */
+    border-radius: 6px;
+}
+
+.cardNext {
+    /* transform: rotate(20deg); */
+    border-radius: 6px;
+}
+
+.card {
+    /* transform: rotate(0); */
+    border-radius: 6px;
+}
